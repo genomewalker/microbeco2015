@@ -10,7 +10,7 @@ Short tutorial on how to install the BioLinux Virtualbox image for the course. A
 During the Windows installation, keep all of the options set to their default.
 ```
 
-    ![](https://github.com/genomewalker/microbeco2015/blob/master/install-biolinux/images/2.png)
+   ![](https://github.com/genomewalker/microbeco2015/blob/master/install-biolinux/images/2.png)
 
 3. Start the program. VirtualBox allows you to manage your various virtual machines, and easily create new ones. You can run VirtualBox directly from the installation program, or you can start it from the desktop icon.
 
