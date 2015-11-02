@@ -6,9 +6,9 @@ Short tutorial on how to install the BioLinux Virtualbox image for the course. A
     ![](https://github.com/genomewalker/microbeco2015/blob/master/install-biolinux/images/1.png)
 
 2. Install the VirtualBox program. If you are using Windows, double-click the setup file and follow the prompts to install. If you are using a Mac, open the DMG file that you downloaded and drag the VirtualBox file to your Applications folder
-```
-During the Windows installation, keep all of the options set to their default.
-```
+    ```
+    During the Windows installation, keep all of the options set to their default.
+    ```
 
    ![](https://github.com/genomewalker/microbeco2015/blob/master/install-biolinux/images/2.png)
 
